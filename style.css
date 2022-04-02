@@ -1,0 +1,9 @@
+.login{
+    background-color: crimson;
+}
+.p1Login,.p2Login{
+    background: white;
+    padding: 20;
+    float: none;
+    border-radius: 15px;
+}
