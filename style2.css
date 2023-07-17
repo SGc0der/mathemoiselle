@@ -1,0 +1,21 @@
+#header{
+    color: white;
+}
+#part1{
+    background-color: brown;
+    width: 75%;
+    height: 20px;
+    border-radius: 7px;
+}
+#part2{
+    background-color: white;
+    padding-top: 10px;
+    border-radius: 5px;
+    width: 75%;
+}
+.page_2{
+    background-color: crimson;
+}
+label{
+    float:left;
+}
